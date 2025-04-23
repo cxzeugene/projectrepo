@@ -1,1 +1,3 @@
+# I want both lines #
 Here is me making some changes in the main / master branch
+This is the changes made on the feature branch featurex
